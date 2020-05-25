@@ -12,13 +12,15 @@
     height: 150px;
     
 }
+.cajitax{
+    background-color: beige;
+}
 .caja22{
     margin-top: 150px;
     margin-left: 1500px;
     width: 400px;
     height: 1400px;
     position: absolute;
-    background-color: aquamarine;
 }   
 .cajita1{
     margin-left: 400px;
@@ -109,13 +111,10 @@
     position: absolute;
     margin-left: 30px;
     width:1450px;
-    height: 1400px;
+    height: 970px;
     background-color: rgb(255, 255, 255);
 }
-.cajitax{
-    background-color: beige;
 
-}
 .sub1{
     position: absolute;
     width: 400px;
