@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caja1{
+    position: absolute;
+    width: 1500px;
+    height: 1200px;
+}
+.cabeza1{
+    width: 1500px;
+    height: 150px;
+    
+}
+.caja22{
+    margin-top: 150px;
+    margin-left: 1500px;
+    width: 400px;
+    height: 1400px;
+    position: absolute;
+    background-color: aquamarine;
+}   
+.cajita1{
+    margin-left: 400px;
+    margin-top: 20px;
+    width: 1000px;
+    height: 50px;
+    font-size: 30px;
+}
+.texto1{
+    margin-left: 40px;
+    font-size: 40px;
+    margin-top: 20px;
+    position: absolute;
+}
+.cabeza2{
+    width: 1450px;
+    height: 60px;
+    background-color: aqua;
+}
+.opcion1{
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 15px;
+    position: absolute;
+}
+.opcion2{
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 15px;
+    position: absolute;
+}
+.opcion3{
+    margin-left: 350px;
+    font-size: 25px;
+    margin-top: 15px;
+    position: absolute;
+
+}
+.opcion4{
+    font-size: 25px;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 900px;
+}
+.opcion5{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 1100px;
+    position:  absolute;
+}
+.opcion6{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 1300px;
+    position: absolute;
+}
+.num1{
+    font-size: 50px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.num2{
+    font-size: 50px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 130px;
+}
+.caja12{
+    width: 1500px;
+    height: 75px;
+    
+    position: absolute;
+    
+}
+.boton1{
+    margin-top: 5px;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    margin-left: 180px;
+    font-size: 46px;
+    padding-left: 10px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+}
+.izquierda{
+    position: absolute;
+    margin-left: 30px;
+    width:1450px;
+    height: 1400px;
+    background-color: rgb(255, 255, 255);
+}
+.cajitax{
+    background-color: beige;
+
+}
+.sub1{
+    position: absolute;
+    width: 400px;
+    height: 170px;
+    margin-top: 0px;
+    background-color: rgb(196, 18, 18);
+}
+.cajaa{
+    width: 70px;
+    height: 70px;
+    border: none;
+    font-size: 40px;
+}
+.number2{
+    position: absolute;
+    width: 110px;
+    height: 80px;
+    background-color: rgb(196, 18, 18);
+    color: rgb(212, 202, 202);
+    font-size: 60px;
+    margin-top: 35px;
+    margin-left: 150px;
+    border: none;
+}
+.sola{
+    width: 110px;
+    height: 80px;
+    background-color: rgb(196, 18, 18);
+    color: rgb(212, 202, 202);
+    font-size: 60px;
+    margin-top: 43px;
+    margin-left: 70px;
+}
+.caja221{
+    position: absolute;
+    margin-top: 170px;
+  width: 400px;
+  height: 600px;
+  background-color: blue;
+}
+.caja222{
+    position: absolute;
+    margin-top: 771px;
+    background-color: yellow;
+    width: 400px;
+    height: 200px;
+}
